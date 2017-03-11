@@ -1,0 +1,202 @@
+.blueblock .nav{
+	background-color: #2C3E50;
+	color: white;
+	font-weight: bold;
+	margin-right: 0px;
+}
+.blueblock .nav a{
+	color: white;
+	text-decoration: none;
+}
+.blueblock{
+	background-color: #18BC9C;
+	height: 630px;
+}
+
+.img-circle{
+	margin-top: 9%;
+}
+.nav .startboot{
+	padding: 20px;
+	padding-left: 9%;
+	font-size: 20px;
+}
+.col-md-4 {
+	padding-top: 20px;
+}
+.col-md-4 a{
+	padding: 20px;
+}
+.start{
+	color: white;
+	text-align: center;
+}
+.start h1{
+	font-weight: bold;
+	font-size: 46px;
+}
+.portfolio {
+	text-align: center;
+	color: #333345;
+	padding-bottom: 60px;
+}
+.portfolio h1{
+	font-weight: bold;
+	padding-top: 30px;
+	font-size: 30px;
+}
+.portfolio .row img{
+	width: 350px;
+
+}
+.about{
+	background-color: #18BC9C;
+	color: white;
+	padding-bottom: 50px;
+
+
+}
+.about h2{
+	font-weight: bold;
+	padding-top: 50px;
+	font-size: 30px;
+	text-align: center;
+}
+.about p{
+	text-align: center;
+}
+.about .row {
+	padding: 10px 29.4%;
+}
+.button_about{
+	color: white;
+	background-color: #18BC9C;
+	border: 1px solid white;
+	padding: 10px 15px;
+	border-radius: 5px;
+	margin: 10px 44%;
+}
+.contact p{
+	text-align: center;
+
+}
+.contact h1{
+	font-weight: bold;
+	padding-top: 50px;
+	font-size: 30px;
+	text-align: center;
+	color: #373737;
+
+}
+input{
+	display: block;
+	padding: 10px;;
+	width: 60%;
+	border-width: 0;
+	border-top: 1px solid #C3C6D0;
+	color: #C3C6D0;
+
+}
+form{
+	margin-left: 27%;
+}
+.messege{
+	border-bottom: 1px solid #C3C6D0;
+	padding-bottom: 90px;
+}
+.send{
+	background-color: #18BC9C;
+	color: white;
+	border-width: 0px;
+	padding: 5px 10px;
+	border-radius: 3px;
+	margin: 10px 10px 40px;
+
+}
+.footer{
+	background-color: #2C3E50;
+	color: white;
+	font-size: 12px;
+}
+.footer .row {
+	padding: 10px 17% 35px;
+	text-align: center;
+}
+.footer .row h5{
+	font-weight: bold;
+	font-size: 17px;
+	margin-bottom: 20px;
+}
+.smalltext{
+	color: #18BC9C;
+}
+.line_footer{
+	background-color: #233140;
+	text-align: center;
+	padding: 20px;
+	font-size: 11px;
+}
+.icon a {
+	color: white;
+	border: 2px solid white;
+	border-radius: 50%;
+	padding: 8px;
+	margin-right: 5px;
+}
+.icon i{
+	width: 18px;
+}
+.icon{
+	margin-top: 30px;
+}
+.star{
+	text-align: center;
+	margin: 10px 5px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
